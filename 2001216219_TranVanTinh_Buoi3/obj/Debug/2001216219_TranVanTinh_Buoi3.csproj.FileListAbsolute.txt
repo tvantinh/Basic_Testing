@@ -1,0 +1,7 @@
+C:\Users\tjnk1\source\repos\2001216219_TranVanTinh_Buoi3\2001216219_TranVanTinh_Buoi3\bin\Debug\2001216219_TranVanTinh_Buoi3.exe.config
+C:\Users\tjnk1\source\repos\2001216219_TranVanTinh_Buoi3\2001216219_TranVanTinh_Buoi3\bin\Debug\2001216219_TranVanTinh_Buoi3.exe
+C:\Users\tjnk1\source\repos\2001216219_TranVanTinh_Buoi3\2001216219_TranVanTinh_Buoi3\bin\Debug\2001216219_TranVanTinh_Buoi3.pdb
+C:\Users\tjnk1\source\repos\2001216219_TranVanTinh_Buoi3\2001216219_TranVanTinh_Buoi3\obj\Debug\2001216219_TranVanTinh_Buoi3.csproj.AssemblyReference.cache
+C:\Users\tjnk1\source\repos\2001216219_TranVanTinh_Buoi3\2001216219_TranVanTinh_Buoi3\obj\Debug\2001216219_TranVanTinh_Buoi3.csproj.CoreCompileInputs.cache
+C:\Users\tjnk1\source\repos\2001216219_TranVanTinh_Buoi3\2001216219_TranVanTinh_Buoi3\obj\Debug\2001216219_TranVanTinh_Buoi3.exe
+C:\Users\tjnk1\source\repos\2001216219_TranVanTinh_Buoi3\2001216219_TranVanTinh_Buoi3\obj\Debug\2001216219_TranVanTinh_Buoi3.pdb

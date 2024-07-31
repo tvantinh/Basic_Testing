@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tjnk1\\source\\repos\\2001216219_TranVanTinh_Buoi3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF526A8-702C-4259-AF8F-B514D523C40A}|UnitTestbai3\\UnitTestbai3.csproj|c:\\users\\tjnk1\\source\\repos\\2001216219_tranvantinh_buoi3\\unittestbai3\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF526A8-702C-4259-AF8F-B514D523C40A}|UnitTestbai3\\UnitTestbai3.csproj|solutionrelative:unittestbai3\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4101EAF-B2D8-43DC-BC4E-645F0B7AF9A4}|bai3\\bai3.csproj|c:\\users\\tjnk1\\source\\repos\\2001216219_tranvantinh_buoi3\\bai3\\tinhnam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4101EAF-B2D8-43DC-BC4E-645F0B7AF9A4}|bai3\\bai3.csproj|solutionrelative:bai3\\tinhnam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4101EAF-B2D8-43DC-BC4E-645F0B7AF9A4}|bai3\\bai3.csproj|c:\\users\\tjnk1\\source\\repos\\2001216219_tranvantinh_buoi3\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4101EAF-B2D8-43DC-BC4E-645F0B7AF9A4}|bai3\\bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877F6E11-6914-471C-89D2-88618DD2847A}|UnitTest_bai2\\UnitTest_bai2.csproj|c:\\users\\tjnk1\\source\\repos\\2001216219_tranvantinh_buoi3\\unittest_bai2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877F6E11-6914-471C-89D2-88618DD2847A}|UnitTest_bai2\\UnitTest_bai2.csproj|solutionrelative:unittest_bai2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7CFF13-22D5-45E2-B372-0259A24345C2}|Bai2\\Bai2.csproj|c:\\users\\tjnk1\\source\\repos\\2001216219_tranvantinh_buoi3\\bai2\\tinhtiendien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7CFF13-22D5-45E2-B372-0259A24345C2}|Bai2\\Bai2.csproj|solutionrelative:bai2\\tinhtiendien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D7605E-87D9-4BB2-82FB-FE44FB3DD7C4}|UnitTest\\UnitTest.csproj|c:\\users\\tjnk1\\source\\repos\\2001216219_tranvantinh_buoi3\\unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D7605E-87D9-4BB2-82FB-FE44FB3DD7C4}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7CFF13-22D5-45E2-B372-0259A24345C2}|Bai2\\Bai2.csproj|c:\\users\\tjnk1\\source\\repos\\2001216219_tranvantinh_buoi3\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7CFF13-22D5-45E2-B372-0259A24345C2}|Bai2\\Bai2.csproj|solutionrelative:bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE5BDCE-F2EC-4EA6-ABE7-A91FC423E8DE}|2001216219_TranVanTinh_Buoi3\\2001216219_TranVanTinh_Buoi3.csproj|c:\\users\\tjnk1\\source\\repos\\2001216219_tranvantinh_buoi3\\2001216219_tranvantinh_buoi3\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE5BDCE-F2EC-4EA6-ABE7-A91FC423E8DE}|2001216219_TranVanTinh_Buoi3\\2001216219_TranVanTinh_Buoi3.csproj|solutionrelative:2001216219_tranvantinh_buoi3\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE5BDCE-F2EC-4EA6-ABE7-A91FC423E8DE}|2001216219_TranVanTinh_Buoi3\\2001216219_TranVanTinh_Buoi3.csproj|c:\\users\\tjnk1\\source\\repos\\2001216219_tranvantinh_buoi3\\2001216219_tranvantinh_buoi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE5BDCE-F2EC-4EA6-ABE7-A91FC423E8DE}|2001216219_TranVanTinh_Buoi3\\2001216219_TranVanTinh_Buoi3.csproj|solutionrelative:2001216219_tranvantinh_buoi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\source\\repos\\2001216219_TranVanTinh_Buoi3\\UnitTestbai3\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestbai3\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\source\\repos\\2001216219_TranVanTinh_Buoi3\\UnitTestbai3\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestbai3\\UnitTest1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:20:13.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TinhNam.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\source\\repos\\2001216219_TranVanTinh_Buoi3\\bai3\\TinhNam.cs",
+              "RelativeDocumentMoniker": "bai3\\TinhNam.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\source\\repos\\2001216219_TranVanTinh_Buoi3\\bai3\\TinhNam.cs",
+              "RelativeToolTip": "bai3\\TinhNam.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:19:44.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\source\\repos\\2001216219_TranVanTinh_Buoi3\\bai3\\Program.cs",
+              "RelativeDocumentMoniker": "bai3\\Program.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\source\\repos\\2001216219_TranVanTinh_Buoi3\\bai3\\Program.cs",
+              "RelativeToolTip": "bai3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:19:29.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\source\\repos\\2001216219_TranVanTinh_Buoi3\\UnitTest_bai2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest_bai2\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\source\\repos\\2001216219_TranVanTinh_Buoi3\\UnitTest_bai2\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest_bai2\\UnitTest1.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwDIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:51:26.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TinhTienDien.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\source\\repos\\2001216219_TranVanTinh_Buoi3\\Bai2\\TinhTienDien.cs",
+              "RelativeDocumentMoniker": "Bai2\\TinhTienDien.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\source\\repos\\2001216219_TranVanTinh_Buoi3\\Bai2\\TinhTienDien.cs",
+              "RelativeToolTip": "Bai2\\TinhTienDien.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwDYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:38:42.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\source\\repos\\2001216219_TranVanTinh_Buoi3\\Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2\\Program.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\source\\repos\\2001216219_TranVanTinh_Buoi3\\Bai2\\Program.cs",
+              "RelativeToolTip": "Bai2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:38:15.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\source\\repos\\2001216219_TranVanTinh_Buoi3\\UnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\source\\repos\\2001216219_TranVanTinh_Buoi3\\UnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest\\UnitTest1.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwCcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:15:54.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\source\\repos\\2001216219_TranVanTinh_Buoi3\\2001216219_TranVanTinh_Buoi3\\Test.cs",
+              "RelativeDocumentMoniker": "2001216219_TranVanTinh_Buoi3\\Test.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\source\\repos\\2001216219_TranVanTinh_Buoi3\\2001216219_TranVanTinh_Buoi3\\Test.cs",
+              "RelativeToolTip": "2001216219_TranVanTinh_Buoi3\\Test.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA0wBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:14:24.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tjnk1\\source\\repos\\2001216219_TranVanTinh_Buoi3\\2001216219_TranVanTinh_Buoi3\\Program.cs",
+              "RelativeDocumentMoniker": "2001216219_TranVanTinh_Buoi3\\Program.cs",
+              "ToolTip": "C:\\Users\\tjnk1\\source\\repos\\2001216219_TranVanTinh_Buoi3\\2001216219_TranVanTinh_Buoi3\\Program.cs",
+              "RelativeToolTip": "2001216219_TranVanTinh_Buoi3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:13:58.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
